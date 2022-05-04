@@ -13,3 +13,6 @@ tsx -> typescript + jsx
 * Controlar o Widget usando State do react
 * Conceitos de acessibilidade
 * Usamos o Popover ja implementando alguns conceitos de acessibilidade
+
+# Aula 2
+* Comunicação entre componentes do react utilizando funções
